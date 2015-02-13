@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/perfidix-3.6.10-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar" sourcepath="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/libraries/guava-18.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jchart2d_modified.jar"/>
+	<classpathentry kind="lib" path="lib/jide-oss-2.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/xmlgraphics-commons-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jpathwatch-0-95.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="lib" path="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/implementation/MyDNA/lib/commons-lang3-3.3.2.jar" sourcepath="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/libraries/commons-lang3-3.3.2-src"/>
+	<classpathentry kind="lib" path="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/implementation/MyDNA/lib/jgrapht-core-0.9.0.jar" sourcepath="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/libraries/jgrapht-0.9.0/source"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sspace"/>
+	<classpathentry kind="lib" path="Z:/G/My Dropbox/Dropbox/uni/Masterthesis/libraries/AccMotifs_10_july_2014/accMotifs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
